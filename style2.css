@@ -1,0 +1,64 @@
+/* PRESENTATION */
+
+
+/* INDEX */
+
+#block {
+    margin-top: 30pt;
+    height: 300pt;
+  
+    
+}
+img {
+    margin-left: 50%;
+    margin-top: 7pt;
+    width: 157%;
+    box-shadow: 30pt
+  
+    
+    
+}
+#P1 {
+    color: beige;
+    font-family: 'Raleway', sans-serif;
+}
+#P2 {
+    color: rgb(250, 216, 166);
+    font-family: 'Raleway', sans-serif;
+    
+}
+#P2:hover {
+    background: beige;
+    color: black
+}
+body {
+    background: lightgrey;
+    
+}
+#Me {
+    font-size: 30pt;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 63.5%;
+    /* font-weight: bold; */
+    color: rgb(70, 69, 69);
+    /* text-decoration: underline */
+    padding: 7pt
+}
+
+#info {
+    margin-top: 30pt;
+    text-align: center;
+    margin: auto;
+    margin-top: 2.5%
+}
+p {
+    font-family: 'Raleway', sans-serif;
+}
+#footer {
+    margin-top: 205pt;
+    color: rgb(250, 216, 166);
+    
+
+}
+
+
