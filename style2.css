@@ -26,6 +26,7 @@ img {
     color: rgb(250, 216, 166);
     font-family: 'Raleway', sans-serif;
     
+    
 }
 #P2:hover {
     background: beige;
@@ -60,5 +61,140 @@ p {
     
 
 }
+/* Portfolio */
 
+#imgP {
+    width: 300px;
+    opacity: 0.7;
 
+}
+
+#imgP:hover {
+    opacity: 1;
+}
+#projects {
+    margin-right: 30%;
+    margin-top: 3%
+
+}
+#vr {
+    float: left;
+    position: relative;
+}
+#Ipad {
+    float: left;
+    position: relative;
+}
+#gadget {
+    float: left;
+    position: relative;
+}
+#tech {
+    float: left;
+    position: relative;
+}
+#nod {
+    float: left;
+    position: relative;
+}
+#contenido1 {
+    position: absolute;
+    top: 85%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+    background: #4aaaa5;
+    color: white;
+    width: 300px;
+    height: 42px;
+    text-align: center
+}
+#contenido2 {
+    position: absolute;
+    top: 85%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+    background: #4aaaa5;
+    color: white;
+    width: 300px;
+    height: 42px;
+    text-align: center
+}
+#contenido3 {
+    position: absolute;
+    top: 85%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+    background: #4aaaa5;
+    color: white;
+    width: 300px;
+    height: 42px;
+    text-align: center
+}
+#contenido4 {
+    position: absolute;
+    top: 85%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+    background: #4aaaa5;
+    color: white;
+    width: 300px;
+    height: 42px;
+    text-align: center
+}
+#contenido5 {
+    position: absolute;
+    top: 85%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+    background: #4aaaa5;
+    color: white;
+    width: 300px;
+    height: 42px;
+    text-align: center
+}
+#row2 {
+    margin-top: 55pt
+}
+#footer {
+    margin-top: 204pt;
+    color: rgb(250, 216, 166);
+    
+
+}
+#footer2 {
+    margin-top: 112pt;
+    color: rgb(250, 216, 166);
+}
+
+/* contactform */
+
+#contactform {
+    margin-top: 6%;
+    background-color: gray;
+    padding: 2%;
+    border-radius: 15pt
+}
+#contacthead {
+    margin-bottom: 3%;
+    margin-left: 1.1%;
+    color: rgb(250, 216, 166);
+}
+#imputhead {
+    color: beige
+}
+#emailHelp {
+    color: beige
+}
+#submitbu {
+    margin-top: 2%;
+    background-color:  rgb(250, 216, 166);
+    color: gray;
+    border-radius: 15pt;
+    transition-duration: 0.3s
+}
+#submitbu:hover {
+    background-color: beige
+}
+#nameform {
+    margin-bottom: 2%;
+}
