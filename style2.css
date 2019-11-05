@@ -98,8 +98,8 @@ p {
     position: relative;
 }
 #contenido1 {
-    position: absolute;
-    top: 85%;
+    position: relative;
+    top: 45%;
     left: 100%;
     transform: translate(-50%, -50%);
     background: #4aaaa5;
@@ -201,4 +201,22 @@ p {
 #footer3 {
     margin-top: 7.5%;
     color: beige
+}
+
+.infoFormat {
+    position: relative;
+    left: 49%;
+    width: 227pt;
+    
+}
+
+
+
+/* .harrypotter {
+    width: 120% !important;
+}
+.trivia {
+    width: 120% !important;
+    position: relative;
+    left: 28%;
 }
