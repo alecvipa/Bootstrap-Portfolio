@@ -99,56 +99,56 @@ p {
 }
 #contenido1 {
     position: relative;
-    top: 45%;
-    left: 100%;
+    top: 70%;
+    left: 97%;
     transform: translate(-50%, -50%);
     background: #4aaaa5;
     color: white;
-    width: 300px;
+    width: 200px;
     height: 42px;
     text-align: center
 }
 #contenido2 {
     position: absolute;
-    top: 85%;
-    left: 100%;
+    top: 39%;
+    right: -59%;
     transform: translate(-50%, -50%);
     background: #4aaaa5;
     color: white;
-    width: 300px;
-    height: 42px;
-    text-align: center
+    width: 200px;
+    height: 40px;
+    text-align: center;
 }
 #contenido3 {
     position: absolute;
     top: 85%;
-    left: 100%;
+    left: 97%;
     transform: translate(-50%, -50%);
     background: #4aaaa5;
     color: white;
-    width: 300px;
+    width: 200px;
     height: 42px;
     text-align: center
 }
 #contenido4 {
     position: absolute;
-    top: 85%;
-    left: 100%;
+    top: 61%;
+    left: 93%;
     transform: translate(-50%, -50%);
     background: #4aaaa5;
     color: white;
-    width: 300px;
+    width: 200px;
     height: 42px;
     text-align: center
 }
 #contenido5 {
     position: absolute;
-    top: 85%;
-    left: 100%;
+    top: 48%;
+    left: 108%;
     transform: translate(-50%, -50%);
     background: #4aaaa5;
     color: white;
-    width: 300px;
+    width: 200px;
     height: 42px;
     text-align: center
 }
@@ -208,6 +208,57 @@ p {
     left: 49%;
     width: 227pt;
     
+}
+
+.card1 {
+    position: relative;
+    left: 45%;
+    width: 350px;
+}
+
+.card2 {
+    position: relative;
+    left: 42%;
+    width: 350px;
+}
+.card {
+    position: relative;
+    bottom: 3%;
+    left: 47%;
+    width: 320px;
+}
+.card4 {
+    position: relative;
+    left: 42%;
+    width: 350px;
+
+}
+.card5 {
+    position: relative;
+    left: 60%;
+    width: 350px;
+
+}
+.harryinfo {
+    position: relative;
+    right: 48.5%;
+}
+.toyinfo {
+    position: relative;
+    right: 50%;
+}
+.gifinfo {
+    position: relative;
+    right: 46%;
+}
+p {
+    font-size: 17px;
+    text-align: center;
+    line-height: 115%;
+}
+.youtufy {
+    position: relative;
+    left: 15%;
 }
 
 

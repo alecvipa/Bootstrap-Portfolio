@@ -1,67 +1,68 @@
 
 
-$(document).ready(function () {
-    $("#Readme").hide();
-    $("#Readme2").hide();
-    $("#Readme3").hide();
-    $("#Readme4").hide();
-    $("#Readme5").hide();
+// $(document).ready(function () {
+//     $("#Readme").hide();
+//     $("#Readme2").hide();
+//     $("#Readme3").hide();
+//     $("#Readme4").hide();
+//     $("#Readme5").hide();
 
-    // $(document).ready(function(){
-    //     $(".wordguess").mouseenter(function(){
-    //         $("#Readme").animate({
-    //             height: 'toggle'
+//     // $(document).ready(function(){
+//     //     $(".wordguess").mouseenter(function(){
+//     //         $("#Readme").animate({
+//     //             height: 'toggle'
                 
-    //         });
-    //     });
-    //     $(".wordguess").mouseleave(function(){
-    //         $("#Readme").animate({
-    //             height: 'toggle'
+//     //         });
+//     //     });
+//     //     $(".wordguess").mouseleave(function(){
+//     //         $("#Readme").animate({
+//     //             height: 'toggle'
                 
-    //         });
-    //     });
-    //   });
+//     //         });
+//     //     });
+//     //   });
 
-    $(".wordguess").hover(function () {
+//     $(".wordguess").hover(function () {
 
-        $("#Readme").animate({
-            height: 'toggle'
+//         $("#Readme").animate({
+//             height: 'toggle'
             
-        });
+//         });
+//         $("#contenido1").css("left: 93%;")
         
-    });
-    $(".harrypotter").hover(function () {
+//     });
+//     $(".harrypotter").hover(function () {
 
-        $("#Readme2").animate({
-            height: 'toggle'
+//         $("#Readme2").animate({
+//             height: 'toggle'
             
-        });
+//         });
         
-    });
-    $(".trivia").hover(function () {
+//     });
+//     $(".trivia").hover(function () {
 
-        $("#Readme3").animate({
-            height: 'toggle'
+//         $("#Readme3").animate({
+//             height: 'toggle'
             
-        });
+//         });
         
-    });
-    $(".GifTastic").hover(function () {
+//     });
+//     $(".GifTastic").hover(function () {
 
-        $("#Readme4").animate({
-            height: 'toggle'
+//         $("#Readme4").animate({
+//             height: 'toggle'
             
-        });
+//         });
         
-    });
-    $(".youtufy").hover(function () {
+//     });
+//     $(".youtufy").hover(function () {
 
-        $("#Readme5").animate({
-            height: 'toggle'
+//         $("#Readme5").animate({
+//             height: 'toggle'
             
-        });
+//         });
         
-    });
-});
+//     });
+// });
 
 
